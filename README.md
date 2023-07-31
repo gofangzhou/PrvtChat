@@ -1,2 +1,2 @@
 # PrvtChat
-一个简单的Ts聊天基础库
+PrvtChat是PrvtCMS上的一个简单的对话聊天类，现已独立。
